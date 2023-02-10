@@ -1,0 +1,98 @@
+body {
+    margin:0;
+    text-align:center;
+    font-family: 'Roboto', sans-serif
+    ;
+    color: #40514e;
+}
+h1 {margin:50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 562.5%;
+    color:#66BFBF;
+    line-height: 2;
+    }
+h2 {font-size: 2.5rem;
+color:#66BFBF;
+font-weight:normal;}
+h3 {color:#11999E}
+a {color:#11999E;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover{color: #eaf6f6;}
+div {
+padding-bottom: 20px;}
+
+.topcontainer {position:relative;
+    background-color: #E4F9F5;
+padding-top: 100px;}
+
+.underline {text-decoration: underline;}
+
+.bottomcloud {position: absolute;
+top:50px;
+right:300px;}
+.topcloud {position:absolute;
+bottom:300px;
+left:300px;}
+
+.skill-row {width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;}
+
+.skillimagecode {width: 25%;
+margin-right: 30px;
+float:left}
+
+.skillimageinvesting {width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+
+/***contact me button********/
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  /********/
+  .middle-container {margin: 100px 0;}
+p {line-height: 2;}
+
+hr {border: dotted #eaf6f6 6px;
+border-bottom: none;
+width: 6%;
+margin: 100px auto;}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottom-container {padding-top: 20px;
+    background-color: #E4F9F5}
+
+.copyright {color: darkcyan;
+font-size: 0.75rem;
+padding: 20px 0;}
